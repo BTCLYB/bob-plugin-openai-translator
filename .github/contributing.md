@@ -16,7 +16,7 @@ We will do our best to solve the issues.
 
 ## Send a Pull Request
 
-We always welcome pull requests! 🥰
+We always welcome pull requests! 🧰
 
 ### Before You Start
 
